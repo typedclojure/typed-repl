@@ -2,6 +2,8 @@
 
 Demo of core.typed integration into Clojure's compilation process.
 
+Please support my [crowdfunding campaign](https://www.indiegogo.com/projects/typed-clojure-from-optional-to-gradual-typing/x/4545030#/story) that made this enhancement possible.
+
 ## Demo
 
 Load `typed-repl.core` in your favourite editor or REPL. core.typed will automatically
